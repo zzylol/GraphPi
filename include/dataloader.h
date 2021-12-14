@@ -20,7 +20,7 @@ enum DataType {
 
 const long long Patents_tri_cnt = 7515023LL;
 const long long LiveJournal_tri_cnt = 177820130LL;
-const long long MiCo_tri_cnt = 12534960LL;
+const long long MiCo_tri_cnt =  34824916864LL;
 const long long CiteSeer_tri_cnt = 1166LL;
 const long long Wiki_Vote_tri_cnt = 608389LL;
 const long long Orkut_tri_cnt = 627584181LL;

@@ -25,7 +25,8 @@ int main(int argc,char *argv[])
     std::string path = std::string(argv[1]);
     int thread_count = atoi(argv[2]);
     //DataType my_type = DataType::Twitter;
-    DataType my_type = DataType::Orkut;
+    // DataType my_type = DataType::Orkut;
+    DataType my_type = DataType::MiCo;
 
     if (D.load_data(g,my_type,path.c_str()) != true)
     {
